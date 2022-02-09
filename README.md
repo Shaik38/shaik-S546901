@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Ecommerce Project
 - 🌱 I’m currently learning Java, Spring boot, MicroServices
 - 👯 I’m looking to collaborate on Full Stack Projects
-- 📫 How to reach me: Instagram : shaikinstalog
+- 📫 How to reach me: Instagram : shaykinstalog
 
 
 
